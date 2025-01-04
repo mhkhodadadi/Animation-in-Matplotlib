@@ -1,6 +1,6 @@
 # Animation-in-Matplotlib
 
-# Animated Sine and Cosine Plot  
+# Animated Plot for Sine and Cosine  
 
 This repository contains a Python script that creates an animated visualization of the sine and cosine functions using the `matplotlib` and `numpy` libraries.  
 
