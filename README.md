@@ -1,4 +1,4 @@
-# Animation-in-Matplotlib
+# Animation plot with FuncAnimation() of Matplotlib
 
 # Animated Plot for Sine and Cosine  
 
